@@ -1,19 +1,19 @@
 {
-    "version": "0.1.8",
+    "version": "0.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/HYY-yu/gopo/releases/download/v0.1.8/gopo_Windows_i386.tar.gz",
+            "url": "https://github.com/HYY-yu/gopo/releases/download/v0.2.0/gopo_Windows_i386.tar.gz",
             "bin": [
                 "gopo.exe"
             ],
-            "hash": "09d4ac6afa8f693bf853762928d2d82e7db40007d61d0f7d9d4898ddf29ab237"
+            "hash": "2836876d11ce332032e060ec40c8a183a24e951f274599ee6d6b7011d96a2ebb"
         },
         "64bit": {
-            "url": "https://github.com/HYY-yu/gopo/releases/download/v0.1.8/gopo_Windows_x86_64.tar.gz",
+            "url": "https://github.com/HYY-yu/gopo/releases/download/v0.2.0/gopo_Windows_x86_64.tar.gz",
             "bin": [
                 "gopo.exe"
             ],
-            "hash": "70386eb1650398164c8aa30c9033469c8162cf0303990a6950d2beae37dfddde"
+            "hash": "1fbaca69686178a599b8efb1fce377d80d4c8a229c4d220736ae90476d25badc"
         }
     },
     "persist": [
